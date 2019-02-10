@@ -19,7 +19,7 @@ This project is a simple lightweight SPA admin template based on laravel and vue
 - Bootstrap 4 + Font Awesome 5
 
 ## Installation
-
+- run `composer create-project dalholm/laravel-spa-starter-kit`
 - Edit `.env` and set your database connection details
 -  run `php artisan key:generate` and `php artisan jwt:secret`
 - `php artisan migrate`
