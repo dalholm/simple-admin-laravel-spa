@@ -1,6 +1,9 @@
 <a href="https://packagist.org/packages/dalholm/laravel-spa-starter-kit"><img src="https://poser.pugx.org/dalholm/laravel-spa-starter-kit/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/dalholm/laravel-spa-starter-kit"><img src="https://poser.pugx.org/dalholm/laravel-spa-starter-kit/v/stable.svg" alt="Latest Stable Version"></a>
 
+# Update
+Use [Laravel, sanctum, SPA](https://github.com/dalholm/larabue-simple-laravel-sanctum-spa-admin) repo instead!!
+
 # Laravel Vuejs SPA Starter Kit
 This project is a simple lightweight SPA admin template based on laravel and vuejs. It's quick to get started.
 
