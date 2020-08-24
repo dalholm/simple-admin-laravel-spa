@@ -18,7 +18,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.1",
     "axios": "^0.18.0",
     "bootstrap": "^4.1.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "js-cookie": "^2.2.0",
     "popper.js": "^1.14.3",
     "sweetalert2": "^7.19.3",
